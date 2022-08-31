@@ -1,6 +1,5 @@
 # kickstarter-analysis
 
-##Overview of Project/Purpose
 Louise is an up-and-coming playwright who wants funding for her play, "Fever". She wishes to get some data on related projects in the hopes of bettering her chances of a successful launch. Her budget is approximately $10,000; she wants to know how different "plays" campaigns fared in relation to their fundraising goals, as well as their launch dates. 
 
 ## Analysis and Challenges
