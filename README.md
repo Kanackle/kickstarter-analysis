@@ -16,6 +16,15 @@ The main conclusion that can be drawn from this graph is that there appears to b
 ## Other notes
 One big limitation to this dataset has to do with the fact that causation does not equal correlation. The graphs that Louise ordered give too much bearing to the numbers, and do not take into account any outside factors. For instance, this data set does not take into account any advertising that may have been done to contribute to a campaign's success. Instead, it lends that weight to the launch date, budget, or any other variable.  
 
-One change I would make is replacing the graph of launch date with a graph that shows outcomes based on campaign length. I believe the graph for outcomes based on launch date is affected too much by outside noise. For example, the graph does not do a good job explaining as to why May and June are such successful months and whether there is some outside factor related to those months that is contributing to their high numbers.  
+One change I would make is replacing the graph of launch date with a graph that shows outcomes based on campaign length. I believe the graph for outcomes based on launch date is affected too much by outside noise. For example, the graph does not do a good job explaining as to why May and June are such successful months and whether there is some outside factor related to those months that is contributing to their high numbers.
+
+![Outcomes_vs_Campaign_Length](https://user-images.githubusercontent.com/33528884/187828042-68cd2408-30cc-42e8-a6f7-3f963fda1db3.png)
+
+
+![Success_Rate_vs_Campaign_Length](https://user-images.githubusercontent.com/33528884/187828383-1c7f26d4-3c5b-4a2e-ba78-5af3cb8d3e3a.png)
+
+One thing these two graphs show is despite the campaign length of 26-30 days being the most popular, it is not the most successful in percentage terms. One reason for this could be that 26-30 days could be a default day for most people, however being so long, people are in no relative pressure to reach their goals. As shown by the second graph, campaign lengths that are between 11 and 26 days are the most successful. This could be because that such little time forces people to focus on advertising their campaign in order to reach the goal. 
+
+
 
 
