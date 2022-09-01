@@ -8,7 +8,7 @@ Two sets of analysis were done to fulfill both of Louise's requirements. The fir
 ### Analysis of Outcomes Based on Launch Date
 One conclusion that can be gleaned from this data is that, in terms of raw numbers, the most number of campaign successes occurred in May or June. However, going by this method, it seems as if August is just slightly more successful than April. In fact, August appears to be one of the four most successful months by this metric. If success rate is accounted for, then the data tells a slightly different story. May and June are still the two leading months, but after them come July, April and February respectively. August is actually one of the four months with a sub 60% success rate.
 
-![Success Rate Based on Launch Date](C:\Users\koolk\Desktop\Data Analysis Bootcamp\Module 1-Crowdfunding Analysis\Resources)
+![Success_Rate_Based on_Launch](https://user-images.githubusercontent.com/33528884/187820577-a33cc7bd-1d3a-4ad8-876e-e27fd81c7bcf.png)
 
 ### Analysis of Outcomes Based on Goals
 The main conclusion that can be drawn from this graph is that there appears to be an overall inverse relationship for campaign goals and success rate and there appears to be an overall positive relationship between campaign goals and failure rate. 
